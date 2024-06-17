@@ -1,0 +1,35 @@
+braces = {}
+program block: any set of statements btw the braces.
+comparison operator: used to compare two values.
+identifier: the name of a class, method or variable.
+modifiers: optional keywords that precede a class, method to set the access level.
+increment: to increase the value of a variable.
+decrement: to decrease the value of a variable.
+signature: the structure / syntax of a code.
+initialization: to declare a variable with a value at the beginning of a code
+method: a block of code which runs only when called (they are functions declared within a class).
+parameters: a characteristic used in defining a particular system, they act as variables in a method
+argument: used to provide more info to a function.
+declare: the act of creating a variable.
+arrays: they are containers used to store multiple variables.
+method overloading: multiple methods having the same name with different parameters.
+scope: in Java, variables are only accessible in the region they are created.
+expression: is any word or group of words or symbols that is a value.
+statement: is  group of statement designed to carry out a task (any statement that returns a value can be used as an expression).
+recursion: a technique of making function call itself.
+halting condition: this is a condition that stops a function from calling itself.
+object-oriented-programming(oop): is a program that creates objects that contain data(variables) and methods.
+class: this is like an object constructor, or a "blueprint" for creating an object.
+class attributes: they are variables within a class (another term for attribute is fields).
+static method: this method can be accessed form another class without creating an object of the class.
+constructor: a special method used to initialize object.
+return type:
+access modifier: used to set the access level in attributes, methods, classes and constructors.
+protected keyword: it's a modifier that sets attributes, methods and constructor to only be accessible in the same package or subclass.
+final: stops the ability to override existing attributes value.
+encapsulation: making sure "sensitive" data is hidden from the user.
+package: used to group related classes.
+subclass: the class that inherits from another class (the child).
+superclass: the class bring inherited from.
+polymorphism: means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+data abstraction: the process of hiding certain details and showing only essential information to the user.
