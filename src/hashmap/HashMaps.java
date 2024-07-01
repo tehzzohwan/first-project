@@ -28,6 +28,20 @@ public class HashMaps {
         Access an Item
         To access a value in the HashMap, use the get() method and refer to its key:
          */
+        System.out.println(fullName.get("Tehzz"));
+
+        /*
+        Remove an Item
+        To remove an item, use the remove() method and refer to the key:
+         */
+        fullName.remove("Tehzz");
+        System.out.println(fullName.get("Tehzz"));
+
+        /*
+        To remove all items, use the clear() method:
+         */
+        fullName.clear();
+        System.out.println(fullName.size());
 
     }
 }
