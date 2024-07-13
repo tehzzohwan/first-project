@@ -1,6 +1,10 @@
 package abstraction;
 
 public abstract class BankAccount {
+/*
+Bank account is an application that enable you to create a bank account,
+user can withdraw and deposit in the app
+ */
     private String name;
     private String phoneNumber;
     private int balance;
